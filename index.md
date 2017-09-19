@@ -1,6 +1,7 @@
 ---
 layout: index
 ---
+{% for post in site.posts %}
 <div class="blog-main">
    <div class="heading-blog">
         The security is main concern while developing applications
@@ -39,5 +40,5 @@ layout: index
 
    </div>
 </div>
-
+{% endfor %}
                     
