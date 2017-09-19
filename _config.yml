@@ -1,0 +1,6 @@
+baseurl: /dongzhidong.github.io
+markdown: redcarpet
+safe: false
+pygments: true
+excerpt_separator: "\n\n\n"
+paginate: 3
