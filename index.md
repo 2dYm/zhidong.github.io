@@ -38,6 +38,8 @@ layout: index
 
                         Praesent efficitur quam aliquam mauris sagittis, vel lacinia risus luctus. Ut vitae bibendum ipsum.
 
+
+{{post.content}}
    </div>
 </div>
 {% endfor %}
