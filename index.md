@@ -2,4 +2,11 @@
 layout: index
 ---
 
-123
+<ul class="post-list">
+    {% for post in site.posts %}
+        <a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}  </a> <br>
+        {{ post.date | date: "%F" }} <br>
+        {{ post.category }} <br>
+        {{ post.excerpt }} 
+    {% endfor %}
+</ul>
