@@ -7,7 +7,7 @@ layout: index
         The security is main concern while developing applications
    </div>
    <a href="singlepost.html">
-       <img src="assets/img/1.jpg" class="img-responsive img-rounded" />
+       <img src="assets/img/{{ post.image }}" class="img-responsive img-rounded" />
    </a>
    <div class="blog-info">
    <span class="label label-primary">Posted on 26th November 2014</span>
