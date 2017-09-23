@@ -1,13 +1,13 @@
 ---
 layout: index
 ---
-{% for tittle in site.tittles %}
+{% for post in site.posts %}
 <div class="blog-main">
    <div class="heading-blog">
         The security is main concern while developing applications
    </div>
-   <a href="{{ tittle.url }}">
-       <img src="assets/img/{{ tittle.image }}" class="img-responsive img-rounded" />
+   <a href="singlepost.html">
+       <img src="assets/img/{{ post.image }}" class="img-responsive img-rounded" />
    </a>
    <div class="blog-info">
    <span class="label label-primary">Posted on 26th November 2014</span>
@@ -19,7 +19,7 @@ layout: index
    </span>
    </div>
    <div class="blog-txt">
-         {{tittle.content}}
+         {{post.description}}
    </div>
 </div>
 {% endfor %}
