@@ -6,7 +6,7 @@ layout: index
    <div class="heading-blog">
         The security is main concern while developing applications
    </div>
-   <a href="singlepost.html">
+   <a href="{{ post.url }}">
        <img src="assets/img/{{ post.image }}" class="img-responsive img-rounded" />
    </a>
    <div class="blog-info">
