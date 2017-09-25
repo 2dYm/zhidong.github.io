@@ -34,12 +34,12 @@ layout: index
 {% if page == paginator.page %}
 <span class="active">{{ page }}</span>
 {% elsif page == 1 %}
-<a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+<a href="{{ '/index.html' |  replace: '//', '/' }}">{{ page }}</a>
 {% else %}
-<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '//' | replace: ':num', page }}">{{ page }}</a>
+<a href="{{ site.paginate_path | replace: '//', '//' | replace: ':num', page }}">{{ page }}</a>
 {% endif %}
 {% endfor %}
 {% if paginator.next_page %}
-<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下一页111</a>
+<a href="{{ paginator.next_page_path | replace: '//', '/' }}">下一页222</a>
 {% endif %}
 {% endif %}
