@@ -36,9 +36,9 @@ layout: index
       {% if page == paginator.page %}
       <span class="active">{{ page }}</span>
       {% elsif page == 1 %}
-      <a href="{{ '/index.html' |  replace: '//', '/' }}">{{ page }}</a>
+      <a href="{{ '/index.html' |  replace: '//', '/' }}">{{ page }}<span class="sr-only"></span></a>
       {% else %}
-      <a href="{{ site.paginate_path | replace: '//', '//' | replace: ':num', page }}">{{ page }}</a>
+      <a href="{{ site.paginate_path | replace: '//', '//' | replace: ':num', page }}">{{ page }}<span class="sr-only"></span></a>
       {% endif %}
    {% endfor %}
 
