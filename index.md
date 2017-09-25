@@ -18,6 +18,7 @@ layout: index
    <i class="fa fa-thumbs-down"></i> - 3
    </span>
    </div>
+   
    <div class="blog-txt">
          {{post.description}}
    </div>
