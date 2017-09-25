@@ -32,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="301">
-                <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <first_editor relative-caret-position="508">
+                <caret line="36" column="89" lean-forward="true" selection-start-line="36" selection-start-column="89" selection-end-line="36" selection-end-column="89" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -332,7 +332,7 @@
       <workItem from="1506168151633" duration="4624000" />
       <workItem from="1506174157007" duration="972000" />
       <workItem from="1506237873506" duration="11000" />
-      <workItem from="1506326079953" duration="4440000" />
+      <workItem from="1506326079953" duration="4543000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1506326772848</created>
@@ -467,11 +467,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506330504688</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test">
+      <created>1506330524890</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1506330524890</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12090000" />
+    <option name="totallyTimeSpent" value="12193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -968,8 +975,8 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="301">
-            <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <first_editor relative-caret-position="508">
+            <caret line="36" column="89" lean-forward="true" selection-start-line="36" selection-start-column="89" selection-end-line="36" selection-end-column="89" />
             <folding />
           </first_editor>
           <second_editor />
