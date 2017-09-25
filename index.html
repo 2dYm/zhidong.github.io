@@ -29,7 +29,7 @@ layout: index
 {% if paginator.total_pages > 1 %}
 
    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span aria-hidden="true">&laquo;上一页</span><span class="sr-only"></span></a>
+      <a href="{{ paginator.previous_page_path | replace: '//', '/' }}"><span aria-hidden="true">&laquo;上一页</span><span class="sr-only"></span></a>
    {% endif %}
 
    {% for page in (1..paginator.total_pages) %}
