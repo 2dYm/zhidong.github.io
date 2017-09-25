@@ -1,7 +1,7 @@
 ---
 layout: index
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="blog-main">
    <div class="heading-blog">
         The security is main concern while developing applications
