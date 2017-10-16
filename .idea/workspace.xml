@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="IPTABLES">
+    <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-16-iptables.md" afterPath="$PROJECT_DIR$/_posts/2017-10-16-iptables.md" />
     </list>
@@ -108,8 +108,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-iptables.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <first_editor relative-caret-position="368">
+                <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -342,14 +342,7 @@
       <workItem from="1506237873506" duration="11000" />
       <workItem from="1506326079953" duration="6780000" />
       <workItem from="1508144857684" duration="700000" />
-      <workItem from="1508149491741" duration="8196000" />
-    </task>
-    <task id="LOCAL-00034" summary="IPTABLES">
-      <created>1508151512556</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1508151512556</updated>
+      <workItem from="1508149491741" duration="8363000" />
     </task>
     <task id="LOCAL-00035" summary="IPTABLES">
       <created>1508151644262</created>
@@ -687,11 +680,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508157213537</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="IPTABLES">
+      <created>1508157692285</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1508157692285</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23326000" />
+    <option name="totallyTimeSpent" value="23493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1197,8 +1197,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-iptables.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <first_editor relative-caret-position="368">
+            <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
