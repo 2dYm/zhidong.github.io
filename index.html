@@ -3,9 +3,12 @@ layout: index
 ---
 {% for post in paginator.posts %}
 <div class="blog-main">
-   <div class="heading-blog">
-        The security is main concern while developing applications
-   </div>
+
+   <a href="{{ post.url }}">
+      <div class="heading-blog">
+         {{post.title}}
+      </div>
+   </a>
 
    <div class="blog-info">
    <span class="label label-primary">Posted on 26th November 2014</span>
@@ -20,6 +23,7 @@ layout: index
    <div class="blog-txt">
          {{post.description}}
    </div>
+
 </div>
 {% endfor %}
 
