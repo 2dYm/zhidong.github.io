@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-16-iptables.md" afterPath="$PROJECT_DIR$/_posts/2017-10-16-iptables.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -334,14 +333,7 @@
       <workItem from="1506237873506" duration="11000" />
       <workItem from="1506326079953" duration="6780000" />
       <workItem from="1508144857684" duration="700000" />
-      <workItem from="1508149491741" duration="5474000" />
-    </task>
-    <task id="LOCAL-00011" summary="test">
-      <created>1506328696154</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1506328696154</updated>
+      <workItem from="1508149491741" duration="5529000" />
     </task>
     <task id="LOCAL-00012" summary="test">
       <created>1506328989342</created>
@@ -679,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508154921384</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="IPTABLES">
+      <created>1508154969154</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1508154969154</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20604000" />
+    <option name="totallyTimeSpent" value="20659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
