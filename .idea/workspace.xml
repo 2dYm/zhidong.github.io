@@ -33,7 +33,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="230">
-                <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+                <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -142,8 +142,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="184">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -190,8 +190,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-25-php.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
@@ -357,14 +357,7 @@
       <workItem from="1508681672442" duration="2577000" />
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
-      <workItem from="1509377049989" duration="5164000" />
-    </task>
-    <task id="LOCAL-00071" summary="IPTABLES">
-      <created>1508155820488</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1508155820489</updated>
+      <workItem from="1509377049989" duration="5273000" />
     </task>
     <task id="LOCAL-00072" summary="IPTABLES">
       <created>1508155902900</created>
@@ -702,11 +695,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509382120960</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="PHP简洁之道">
+      <created>1509382217200</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1509382217200</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35483000" />
+    <option name="totallyTimeSpent" value="35592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1154,17 +1154,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-27-php.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-iptables.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1187,11 +1176,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-收藏.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-27-php.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1209,10 +1198,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-收藏.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
