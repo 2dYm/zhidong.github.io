@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" afterPath="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" afterPath="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -127,7 +126,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-25-PHP代码简洁之道-变量部分.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-25-PHP代码简洁之道-变量部分.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -140,11 +139,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="184">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -190,10 +189,10 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-26-php.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-25-php.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -358,14 +357,7 @@
       <workItem from="1508681672442" duration="2577000" />
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
-      <workItem from="1509377049989" duration="4860000" />
-    </task>
-    <task id="LOCAL-00069" summary="IPTABLES">
-      <created>1508155638436</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1508155638436</updated>
+      <workItem from="1509377049989" duration="5068000" />
     </task>
     <task id="LOCAL-00070" summary="IPTABLES">
       <created>1508155757753</created>
@@ -703,11 +695,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509381775343</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="PHP简洁之道">
+      <created>1509381912999</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1509381912999</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35179000" />
+    <option name="totallyTimeSpent" value="35387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1177,14 +1176,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1215,6 +1206,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
