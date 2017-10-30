@@ -111,8 +111,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-22-php.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="481">
-                <caret line="547" column="1" lean-forward="true" selection-start-line="547" selection-start-column="1" selection-end-line="547" selection-end-column="1" />
+              <first_editor relative-caret-position="230">
+                <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -350,14 +350,7 @@
       <workItem from="1508149491741" duration="8458000" />
       <workItem from="1508681672442" duration="2577000" />
       <workItem from="1509244279776" duration="101000" />
-      <workItem from="1509369268882" duration="2271000" />
-    </task>
-    <task id="LOCAL-00045" summary="IPTABLES">
-      <created>1508153017331</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1508153017331</updated>
+      <workItem from="1509369268882" duration="2328000" />
     </task>
     <task id="LOCAL-00046" summary="IPTABLES">
       <created>1508153147752</created>
@@ -695,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509371387757</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="PHP简洁之道">
+      <created>1509371542094</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1509371542094</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28537000" />
+    <option name="totallyTimeSpent" value="28594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="38" width="1869" height="1092" extended-state="6" />
@@ -1205,8 +1205,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-22-php.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="481">
-            <caret line="547" column="1" lean-forward="true" selection-start-line="547" selection-start-column="1" selection-end-line="547" selection-end-column="1" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />
