@@ -131,7 +131,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="253">
-                <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+                <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -357,14 +357,7 @@
       <workItem from="1508681672442" duration="2577000" />
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
-      <workItem from="1509377049989" duration="6328000" />
-    </task>
-    <task id="LOCAL-00080" summary="IPTABLES">
-      <created>1508157067030</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1508157067030</updated>
+      <workItem from="1509377049989" duration="6397000" />
     </task>
     <task id="LOCAL-00081" summary="IPTABLES">
       <created>1508157071720</created>
@@ -702,11 +695,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509383322107</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="PHP简洁之道">
+      <created>1509383382581</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1509383382581</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36647000" />
+    <option name="totallyTimeSpent" value="36716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1210,7 +1210,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="253">
-            <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
