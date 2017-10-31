@@ -95,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="584">
-              <caret line="117" column="117" lean-forward="false" selection-start-line="117" selection-start-column="117" selection-end-line="117" selection-end-column="117" />
+              <caret line="117" column="133" lean-forward="false" selection-start-line="117" selection-start-column="133" selection-end-line="117" selection-end-column="137" />
               <folding />
             </state>
           </provider>
@@ -117,8 +117,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+            <state relative-caret-position="538">
+              <caret line="120" column="56" lean-forward="true" selection-start-line="120" selection-start-column="56" selection-end-line="120" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -374,14 +374,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="5561000" />
-    </task>
-    <task id="LOCAL-00100" summary="PHP简洁之道">
-      <created>1509377477902</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1509377477902</updated>
+      <workItem from="1509425433239" duration="5624000" />
     </task>
     <task id="LOCAL-00101" summary="PHP简洁之道">
       <created>1509377634101</created>
@@ -719,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509445348867</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="PHP简洁之道">
+      <created>1509445580576</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1509445580576</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43642000" />
+    <option name="totallyTimeSpent" value="43705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1869" height="1092" extended-state="6" />
@@ -1221,15 +1221,15 @@
     <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
-          <caret line="117" column="117" lean-forward="false" selection-start-line="117" selection-start-column="117" selection-end-line="117" selection-end-column="117" />
+          <caret line="117" column="133" lean-forward="false" selection-start-line="117" selection-start-column="133" selection-end-line="117" selection-end-column="137" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+        <state relative-caret-position="538">
+          <caret line="120" column="56" lean-forward="true" selection-start-line="120" selection-start-column="56" selection-end-line="120" selection-end-column="56" />
           <folding />
         </state>
       </provider>
