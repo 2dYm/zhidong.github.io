@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/singlepost.html" afterPath="$PROJECT_DIR$/_layouts/singlepost.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" afterPath="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="singlepost.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="singlepost.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="455">
@@ -114,12 +113,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-26-PHP代码简洁之道-函数部分.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-10-26-PHP代码简洁之道-函数部分.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="642">
-                <caret line="404" column="3" lean-forward="true" selection-start-line="404" selection-start-column="3" selection-end-line="404" selection-end-column="3" />
+              <first_editor relative-caret-position="435">
+                <caret line="47" column="14" lean-forward="false" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -194,9 +193,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-28-php.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_layouts/singlepost.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" />
       </list>
     </option>
   </component>
@@ -362,14 +361,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="2804000" />
-    </task>
-    <task id="LOCAL-00086" summary="PHP简洁之道">
-      <created>1509370363631</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1509370363632</updated>
+      <workItem from="1509425433239" duration="2860000" />
     </task>
     <task id="LOCAL-00087" summary="PHP简洁之道">
       <created>1509370511717</created>
@@ -707,11 +699,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509442532972</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="PHP简洁之道">
+      <created>1509442826195</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1509442826195</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40885000" />
+    <option name="totallyTimeSpent" value="40941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1869" height="1092" extended-state="6" />
@@ -1186,17 +1185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="642">
-            <caret line="404" column="3" lean-forward="true" selection-start-line="404" selection-start-column="3" selection-end-line="404" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1219,6 +1207,17 @@
         <state relative-caret-position="455">
           <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="435">
+            <caret line="47" column="14" lean-forward="false" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
