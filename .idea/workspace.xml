@@ -4,6 +4,49 @@
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
+    <list id="f5530a1c-b8f0-4bb3-9502-40c57f8a58b4" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace-1" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2017/10/29/PHP简洁之道-SOLID原则.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/ad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/ad2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/clients.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/person.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/user.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/user2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/Linux/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/PHP/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/其他/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/工具/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/linux/2017/10/16/iptables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/php/2017/10/25/PHP代码简洁之道-变量部分.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/php/2017/10/26/PHP代码简洁之道-函数部分.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/php/2017/10/27/php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/php/2017/10/28/php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/uploads/Jekyll 教程 - v1.0.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/uploads/user2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/其他/2017/09/18/收藏.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/工具/2017/09/18/e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/工具/2017/09/18/t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/工具/2017/09/18/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/Jekyll 教程 - v1.0.pdf" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,34 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="184">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -126,19 +146,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-18-e.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-e.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="138">
-                <caret line="6" column="72" lean-forward="false" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -205,6 +212,8 @@
         <option value="$PROJECT_DIR$/_layouts/index.html" />
         <option value="$PROJECT_DIR$/category_index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_site/工具/2017/09/18/e.html" />
       </list>
     </option>
   </component>
@@ -246,13 +255,27 @@
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="categories" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -374,21 +397,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="11721000" />
-    </task>
-    <task id="LOCAL-00127" summary="PHP简洁之道">
-      <created>1509383253580</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1509383253580</updated>
-    </task>
-    <task id="LOCAL-00128" summary="PHP简洁之道">
-      <created>1509383322107</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1509383322107</updated>
+      <workItem from="1509425433239" duration="12014000" />
     </task>
     <task id="LOCAL-00129" summary="PHP简洁之道">
       <created>1509383382581</created>
@@ -719,11 +728,25 @@
       <option name="project" value="LOCAL" />
       <updated>1509454375591</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="PHP简洁之道">
+      <created>1509454437994</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1509454437994</updated>
+    </task>
+    <task id="LOCAL-00177" summary="PHP简洁之道">
+      <created>1509454504353</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1509454504353</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49802000" />
+    <option name="totallyTimeSpent" value="50095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -744,10 +767,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294766" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30646873" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30646873" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30965006" sideWeight="0.4980716" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30965006" sideWeight="0.4980716" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -801,17 +824,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-e.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-t.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1206,23 +1218,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="445">
-            <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1239,6 +1234,31 @@
         <state relative-caret-position="460">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/工具/2017/09/18/e.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="445">
+            <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
