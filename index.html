@@ -30,8 +30,11 @@ dddddddddd
 {% endfor %}
 ddddddddddddddd
 
-{\% for post in site.categories.[page.category] %\}
-{\{ post.date }\} {\{ post.title }\}
-{\% endfor %\}
 
+
+AAAAAAAAAAAA
+{% for post in site.categories.[page.category] %}
+{{ post.date }} {{ post.title }}
+{% endfor %}
+AAAAAAAAAAAA
 
