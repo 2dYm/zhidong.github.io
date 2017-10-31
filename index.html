@@ -9,37 +9,18 @@ layout: index
       <a href="/categories/{{ category | first }}/" title="view allposts">
          {{ category | first }} {{ category | last | size }}
       </a>
+      11111111
+      <a>
+         {{CATEGORY}}
+      </a>
+      22222
+      <a>
+         {{categories.CATEGORY}}
+      </a>
    </li>
    {% endfor %}
 </ul>
 
-123456
-{% for category in site.categories %}
-<h2>{{ category | first }}</h2>
-</span>{{ category | last | size }}</span>
-<ul class="arc-list">
-   {% for post in category.last %}
-   <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
-</ul>
-{% endfor %}
 
 
 
-789
-var dataStr = '{ {% for cat in site.categories %}{% if cat[0] != site.categories.first[0] %},{% endif %}"{{ cat[0] }}":[{% for post in cat[1] %}{% if post != cat[1].first %},{% endif %}{"url":"{{post.url}}", "title":"{{post.title}}", "date":"{{post.date | date:"%d/%m/%Y"}}"}{% endfor %}]{% endfor %} }',
-data = JSON.parse(dataStr),
-curTag = $.query.get("cat"),
-archieves = data[curTag];
-
-<br>
-<br>
-
-1011
-
-{{site.categories.CATEGORY}}
-
-{{CATEGORY}}
-
-
-{{categories.CATEGORY}}
