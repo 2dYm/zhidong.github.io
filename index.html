@@ -18,32 +18,11 @@ layout: index
 </div>
 {% endfor %}
 
-2222222
-0000000
-111111
-<h4>Category</h4>
-<ul>
-   {% for category in site.categories %}
-   <li>
-      <a href="/categories/{{ category | first }}/" title="view all posts">
-         {{ category | first }} {{ category | last | size }}
-      </a>
-   </li>
-   {% endfor %}
-</ul>
 
-
-<h1>随笔分类</h1>
-{% for category in site.categories %}
-<ul>
-   <li><a href="{{ site.baseurl}}/category/{{ category.first }}.html">{{category.first}}（{{category.last.size}}）</a></li>
-</ul>
-{% endfor %}
-
-
+{% if paginator.total_pages > 1 %}
 <ul class="pagination">
    <li>
-      <a href="{{ site.baseurl}}/article/">
+      <a href="/">
          <span>首页</span>
       </a>
    </li>
@@ -52,9 +31,9 @@ layout: index
       <span>&laquo;</span>
       {% else %}
       {% if paginator.previous_page == 1 %}
-      <a href="{{ site.baseurl}}/article/">
+      <a href="/">
          {% else %}
-         <a href="{{ site.baseurl}}/article/{{ paginator.previous_page }}">
+         <a href="{{ paginator.previous_page }}">
             {% endif %}
             <span>&laquo;</span>
          </a>
@@ -67,9 +46,9 @@ layout: index
    <li>
       {% endif %}
       {% if i == 1 %}
-      <a href="{{site.baseurl}}/article">{{i}}</a>
+      <a href="/">{{i}}</a>
       {% else %}
-      <a href="{{site.baseurl}}/article/{{i}}">{{i}}</a>
+      <a href="{{i}}">{{i}}</a>
       {% endif %}
    </li>
    {% endfor %}
@@ -77,13 +56,13 @@ layout: index
       {% if paginator.page == paginator.total_pages %}
       <span>&raquo;</span>
       {% else %}
-      <a href="{{ site.baseurl}}/article/{{ paginator.next_page }}">
+      <a href="{{ paginator.next_page }}">
          <span>&raquo;</span>
       </a>
       {% endif %}
    </li>
    <li>
-      <a href="{{ site.baseurl}}/article/{{paginator.total_pages}}">
+      <a href="{{paginator.total_pages}}">
          <span>末页</span>
       </a>
    </li>
@@ -91,3 +70,22 @@ layout: index
       <span>第{{paginator.page}}页 / 共{{paginator.total_pages}}页</span>
    </li>
 </ul>
+{% endif %}
+
+
+
+<h4>Category</h4>
+<ul>
+   {% for category in site.categories %}
+   <li>
+      <a href="/categories/{{ category | first }}/" title="view all posts">
+         {{ category | first }} {{ category | last | size }}
+      </a>
+   </li>
+   {% endfor %}
+</ul>
+
+
+
+
+
