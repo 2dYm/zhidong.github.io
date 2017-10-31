@@ -39,11 +39,6 @@ archieves = data[curTag];
 
 {{site.categories.CATEGORY}}
 
-1012
+{{CATEGORY}}
 
-{% for category in site.categories %}
-<li>{{category[0]}}({{category | last | size}})</li>
-{% for post in category[1] %}
-<p><a href="{{post.url}}">{{post.title}}</a></p>
-{% endfor %}
-{% endfor %}
+
