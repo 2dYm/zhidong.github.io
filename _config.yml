@@ -7,5 +7,3 @@ pygments: true
 excerpt_separator: "\n\n\n"
 paginate: 5
 paginate_path: "page:num"
-
-
