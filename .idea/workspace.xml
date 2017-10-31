@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/index.html" afterPath="$PROJECT_DIR$/_layouts/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/singlepost.html" afterPath="$PROJECT_DIR$/_layouts/singlepost.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" afterPath="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" afterPath="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md" afterPath="$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,12 +44,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-29-PHP简洁之道-SOLID原则.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-10-29-PHP简洁之道-SOLID原则.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="506">
-                <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -94,8 +96,8 @@
       <file leaf-file-name="singlepost.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="106" column="26" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+            <state relative-caret-position="299">
+              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -107,8 +109,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="527">
-                <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+              <first_editor relative-caret-position="665">
+                <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="407" selection-end-column="66" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -116,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="112" column="26" lean-forward="false" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+            <state relative-caret-position="184">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -130,8 +132,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="679">
-                <caret line="241" column="0" lean-forward="false" selection-start-line="241" selection-start-column="0" selection-end-line="243" selection-end-column="56" />
+              <first_editor relative-caret-position="725">
+                <caret line="243" column="15" lean-forward="false" selection-start-line="243" selection-start-column="15" selection-end-line="243" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -163,6 +165,7 @@
       <find>2014</find>
       <find>BLOG</find>
       <find>Advrtisements</find>
+      <find>Jhon Alexan</find>
     </findStrings>
     <replaceStrings>
       <replace>tittle</replace>
@@ -191,16 +194,16 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-27-php.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-26-php.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-25-php.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-10-28-php.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" />
-        <option value="$PROJECT_DIR$/_layouts/singlepost.html" />
         <option value="$PROJECT_DIR$/_layouts/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/singlepost.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md" />
       </list>
     </option>
   </component>
@@ -238,6 +241,21 @@
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -356,14 +374,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="3482000" />
-    </task>
-    <task id="LOCAL-00093" summary="PHP简洁之道">
-      <created>1509371387757</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1509371387757</updated>
+      <workItem from="1509425433239" duration="4109000" />
     </task>
     <task id="LOCAL-00094" summary="PHP简洁之道">
       <created>1509371542094</created>
@@ -701,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509443386110</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="PHP简洁之道">
+      <created>1509443502013</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1509443502025</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41563000" />
+    <option name="totallyTimeSpent" value="42190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1869" height="1092" extended-state="6" />
@@ -1115,17 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-27-php.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1167,17 +1174,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="679">
-            <caret line="241" column="0" lean-forward="false" selection-start-line="241" selection-start-column="0" selection-end-line="243" selection-end-column="56" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1195,32 +1191,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="527">
-            <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="106" column="26" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+        <state relative-caret-position="299">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="112" column="26" lean-forward="false" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-PHP代码简洁之道-函数部分.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="665">
+            <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="407" selection-end-column="66" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-25-PHP代码简洁之道-变量部分.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="725">
+            <caret line="243" column="15" lean-forward="false" selection-start-line="243" selection-start-column="15" selection-end-line="243" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-29-PHP简洁之道-SOLID原则.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
