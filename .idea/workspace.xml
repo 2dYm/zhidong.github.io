@@ -75,8 +75,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            <state relative-caret-position="643">
+              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -390,14 +390,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="17006000" />
-    </task>
-    <task id="LOCAL-00153" summary="PHP简洁之道">
-      <created>1509450124265</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1509450124265</updated>
+      <workItem from="1509425433239" duration="17082000" />
     </task>
     <task id="LOCAL-00154" summary="PHP简洁之道">
       <created>1509450417135</created>
@@ -735,11 +728,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509461131176</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="Revert &quot;PHP简洁之道&quot;">
+      <created>1509461327046</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1509461327046</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55087000" />
+    <option name="totallyTimeSpent" value="55163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1240,8 +1240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        <state relative-caret-position="643">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding />
         </state>
       </provider>
