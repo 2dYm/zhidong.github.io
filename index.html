@@ -1,6 +1,7 @@
 ---
 layout: index
 ---
+
 {% for post in paginator.posts %}
 <div class="blog-main">
 
@@ -17,9 +18,8 @@ layout: index
 </div>
 {% endfor %}
 
-AAAAAAAAAAAA
 {% for post in site.categories.[page.category] %}
 {{ post.date }} {{ post.title }}
 {% endfor %}
-AAAAAAAAAAAA
+
 
