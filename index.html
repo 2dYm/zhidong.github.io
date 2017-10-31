@@ -56,14 +56,17 @@ layout: index
       {% if paginator.page == 1 %}
       <span>&laquo;</span>
       {% else %}
+
       {% if paginator.previous_page == 1 %}
       <a href="/">
+
+      </a>
          {% else %}
          <a href="{{ paginator.previous_page }}">
             {% endif %}
             <span>&laquo;</span>
          </a>
-         {% endif %}
+      {% endif %}
    </li>
    {% for i in (1..paginator.total_pages) limit:9 offset:{{paginator.page-1}} %}
    {% if paginator.page == i %}
@@ -99,5 +102,14 @@ layout: index
 {% endif %}
 
 
-
+<h4>Category</h4>
+<ul>
+   {% for category in site.categories %}
+   <li>
+      <a href="/categories/{{ category | first }}/" title="view allposts">
+         {{ category | first }} {{ category | last | size }}
+      </a>
+   </li>
+   {% endfor %}
+</ul>
 
