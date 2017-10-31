@@ -88,7 +88,7 @@ layout: index
       {% endif %}
    </li>
    <li>
-      <a href="{{paginator.total_pages}}">
+      <a href="{{paginator.total_pages | replace: '//', '/' }}">
          <span>末页</span>
       </a>
    </li>
