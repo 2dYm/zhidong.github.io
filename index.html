@@ -2,9 +2,27 @@
 layout: index
 ---
 
+<h4>Category</h4>
+<ul>
+   {% for category in site.categories %}
+   <li>
+      <a href="/categories/{{ category | first }}/" title="view allposts">
+         {{ category | first }} {{ category | last | size }}
+      </a>
+      11111111
+      <a>
+         {{CATEGORY}}
+      </a>
+      22222
+      <a>
 
+      </a>
+   </li>
+   {% endfor %}
+</ul>
 
 333333
+
 {{site.categories}}
 
 44444
