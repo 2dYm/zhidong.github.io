@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list id="f5530a1c-b8f0-4bb3-9502-40c57f8a58b4" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace-1" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace">
@@ -75,39 +74,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
               <folding>
                 <element signature="e#930#937#1" expanded="true" />
                 <element signature="e#1188#1195#1" expanded="true" />
                 <element signature="e#1691#1698#1" expanded="true" />
                 <element signature="e#1807#1814#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <marker date="1509455606085" expanded="true" signature="3292:5146" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="3337:5096" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="3390:3481" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="3534:3663" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="3716:3842" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="3895:4024" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="4077:4203" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="4256:4348" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="4401:4530" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="4583:4709" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="4762:4891" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="4944:5070" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="5234:5560" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="5260:5549" ph="..." />
-                <marker date="1509455606085" expanded="true" signature="5317:5534" ph="..." />
               </folding>
             </state>
           </provider>
@@ -285,30 +258,6 @@
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="categories" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="categories" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="工具" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="工具" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -429,14 +378,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="12960000" />
-    </task>
-    <task id="LOCAL-00131" summary="PHP简洁之道">
-      <created>1509383680904</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1509383680904</updated>
+      <workItem from="1509425433239" duration="13294000" />
     </task>
     <task id="LOCAL-00132" summary="PHP简洁之道">
       <created>1509383811803</created>
@@ -774,11 +716,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509455442921</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace817631b62fcb393a6dfeacb0aa528620b.">
+      <created>1509455678003</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1509455678003</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51041000" />
+    <option name="totallyTimeSpent" value="51375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1284,30 +1233,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1509455606085" expanded="true" signature="3292:5146" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="3337:5096" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="3390:3481" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="3534:3663" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="3716:3842" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="3895:4024" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="4077:4203" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="4256:4348" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="4401:4530" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="4583:4709" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="4762:4891" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="4944:5070" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="5234:5560" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="5260:5549" ph="..." />
-            <marker date="1509455606085" expanded="true" signature="5317:5534" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        <state relative-caret-position="180">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
           <folding>
             <element signature="e#930#937#1" expanded="true" />
             <element signature="e#1188#1195#1" expanded="true" />
