@@ -72,7 +72,7 @@ layout: index
    <li>
       {% endif %}
       {% if i == 1 %}
-      <a href="/">{{i}}</a>
+      <a href="{{ '/index.html' |  replace: '//', '/' }}">{{i}}</a>
       {% else %}
       <a href="{{i}}">{{i}}</a>
       {% endif %}
