@@ -116,8 +116,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="125" column="25" lean-forward="true" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+            <state relative-caret-position="299">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -156,6 +156,7 @@
       <find>Posted on 26th November 2014</find>
       <find>Recent Comments</find>
       <find>Subscribe</find>
+      <find>Bootstrap F</find>
     </findStrings>
     <replaceStrings>
       <replace>tittle</replace>
@@ -231,16 +232,6 @@
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -359,14 +350,7 @@
       <workItem from="1509244279776" duration="101000" />
       <workItem from="1509369268882" duration="4053000" />
       <workItem from="1509377049989" duration="7762000" />
-      <workItem from="1509425433239" duration="3073000" />
-    </task>
-    <task id="LOCAL-00089" summary="PHP简洁之道">
-      <created>1509370913520</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1509370913520</updated>
+      <workItem from="1509425433239" duration="3208000" />
     </task>
     <task id="LOCAL-00090" summary="PHP简洁之道">
       <created>1509371003152</created>
@@ -704,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509442904122</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="PHP简洁之道">
+      <created>1509443092821</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1509443092821</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41154000" />
+    <option name="totallyTimeSpent" value="41289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1869" height="1092" extended-state="6" />
@@ -1213,8 +1204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="125" column="25" lean-forward="true" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+        <state relative-caret-position="299">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding />
         </state>
       </provider>
