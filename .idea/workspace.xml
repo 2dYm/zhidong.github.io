@@ -46,6 +46,7 @@
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <file path="$PROJECT_DIR$/_site/index.html" ignored="false" />
@@ -124,10 +125,10 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
               <folding>
-                <element signature="e#821#828#0" expanded="true" />
-                <element signature="e#1466#1473#0" expanded="true" />
+                <element signature="e#822#829#0" expanded="true" />
+                <element signature="e#1467#1474#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -437,14 +438,7 @@
       <workItem from="1509535506475" duration="8536000" />
       <workItem from="1509608504201" duration="1752000" />
       <workItem from="1509708712856" duration="713000" />
-      <workItem from="1509710479033" duration="735000" />
-    </task>
-    <task id="LOCAL-00165" summary="PHP简洁之道">
-      <created>1509453267771</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1509453267771</updated>
+      <workItem from="1509710479033" duration="1077000" />
     </task>
     <task id="LOCAL-00166" summary="PHP简洁之道">
       <created>1509453413123</created>
@@ -782,11 +776,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509710566374</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="Revert &quot;PHP简洁之道&quot;">
+      <created>1509712571182</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1509712571182</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69667000" />
+    <option name="totallyTimeSpent" value="70009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1267,10 +1268,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="e#821#828#0" expanded="true" />
-            <element signature="e#1466#1473#0" expanded="true" />
+            <element signature="e#822#829#0" expanded="true" />
+            <element signature="e#1467#1474#0" expanded="true" />
           </folding>
         </state>
       </provider>
