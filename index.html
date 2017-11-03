@@ -1,34 +1,51 @@
 ---
 layout: index
 ---
+{% for post in paginator.posts %}
+<div class="blog-main">
 
-<h4>Category</h4>
-<ul>
-   {% for category in site.categories %}
-   <li>
-      <a href="/categories/{{ category | first }}/" title="view allposts">
-         {{ category | first }} {{ category | last | size }}
-      </a>
-   </li>
+   <a href="{{ post.url }}">
+      <div class="heading-blog">
+         {{post.title}}
+      </div>
+   </a>
+
+   <div class="blog-txt">
+         {{post.description}}
+   </div>
+
+   <div class="blog-info">
+      <span class="label label-primary">Posted on 26th November 2014</span>
+      <span class="label label-success">In Technology</span>
+      <span class="label label-danger">By Jhon</span>
+      <span class="label label-info">
+         <i class="fa fa-thumbs-up"></i> + 10
+         <i class="fa fa-thumbs-down"></i> - 3
+      </span>
+   </div>
+
+</div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+
+   {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | replace: '//', '/' }}"><span aria-hidden="true"> &laquo;上一页 </span><span class="sr-only"></span></a>
+   {% endif %}
+
+   {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+      <span class="active">{{ page }}</span>
+      {% elsif page == 1 %}
+      <a href="{{ '/index.html' |  replace: '//', '/' }}"> {{ page }} <span class="sr-only"></span></a>
+      {% else %}
+      <a href="{{ site.paginate_path | replace: '//', '//' | replace: ':num', page }}"> {{ page }} <span class="sr-only"></span></a>
+      {% endif %}
    {% endfor %}
-</ul>
 
-333333
+   {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | replace: '//', '/' }}"><span aria-hidden="true"> 下一页&raquo; </span><span class="sr-only"></span></a>
+   {% endif %}
 
-{{site.categories}}
-
-44444
-{{site.categories.CATEGORY}}
-
-555555
-<h4>Category</h4>
-<ul>
-   {% for category in site.categories %}
-   <li><a href="/categories/{{ category | first }}/" title="view all
-posts">{{ category | first }} {{ category | last | size }}</a>
-   </li>
-   {% endfor %}
-</ul>
-
-
+{% endif %}
 
