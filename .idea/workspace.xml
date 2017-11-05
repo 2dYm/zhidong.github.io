@@ -138,8 +138,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-Mysql日期时间类型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="345">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -435,14 +435,7 @@
       <workItem from="1509710479033" duration="1685000" />
       <workItem from="1509720722772" duration="342000" />
       <workItem from="1509804255608" duration="840000" />
-      <workItem from="1509849039205" duration="7046000" />
-    </task>
-    <task id="LOCAL-00172" summary="PHP简洁之道">
-      <created>1509453993371</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1509453993371</updated>
+      <workItem from="1509849039205" duration="7092000" />
     </task>
     <task id="LOCAL-00173" summary="PHP简洁之道">
       <created>1509454099810</created>
@@ -780,11 +773,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509888049184</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="Revert &quot;PHP简洁之道&quot;">
+      <created>1509888783368</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1509888783368</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78845000" />
+    <option name="totallyTimeSpent" value="78891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1270,8 +1270,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-Mysql日期时间类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="345">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
