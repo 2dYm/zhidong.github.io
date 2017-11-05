@@ -1,23 +1,52 @@
 ---
 layout: index
 ---
-<div class="c9">
-   Categories：
-   { %for cg in post.categories % }
-   <a href="/categories.html#-ref"></a>
-   { %if forloop.index < forloop.length % }
-   ,
-   { %endif%}
-   { %endfor%}
-   |
-   Tags：
-   { %for cg in post.tags %}
-   <a href="/tags.html#-ref"></a>
-   { %if forloop.index < forloop.length %}
-   ,
-   { %endif%}
-   { %endfor%}
-   |
-   Time：<time date="{ { post.date|date: '%Y-%m-%d' }}"></time>
-   <a href='#comments' title='分享文章、查看评论' style="float:right;margin-right:.5em;">Comments</a>
+
+{% for post in paginator.posts %}
+<div class="blog-main">
+
+   <a href="{{ post.url }}">
+      <div class="heading-blog">
+         {{post.title}}
+      </div>
+   </a>
+
+   <div class="blog-txt">
+         {{post.description}}
+   </div>
+
+   <div class="blog-info">
+      <span class="label label-primary">Posted on </span>
+      <span class="label label-success">In Technology</span>
+      <span class="label label-danger">By Jhon</span>
+      <span class="label label-info">
+         <i class="fa fa-thumbs-up"></i> + 10
+         <i class="fa fa-thumbs-down"></i> - 3
+      </span>
+   </div>
+
 </div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+
+   {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | replace: '//', '/' }}"><span aria-hidden="true"> &laquo;上一页 </span><span class="sr-only"></span></a>
+   {% endif %}
+
+   {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+      <span class="active">{{ page }}</span>
+      {% elsif page == 1 %}
+      <a href="{{ '/index.html' |  replace: '//', '/' }}"> {{ page }} <span class="sr-only"></span></a>
+      {% else %}
+      <a href="{{ site.paginate_path | replace: '//', '//' | replace: ':num', page }}"> {{ page }} <span class="sr-only"></span></a>
+      {% endif %}
+   {% endfor %}
+
+   {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | replace: '//', '/' }}"><span aria-hidden="true"> 下一页&raquo; </span><span class="sr-only"></span></a>
+   {% endif %}
+
+{% endif %}
+

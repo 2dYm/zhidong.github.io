@@ -111,10 +111,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <state relative-caret-position="161">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding>
-                <element signature="n#style#0;n#a#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#804#811#0" expanded="true" />
+                <element signature="e#1449#1456#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -434,14 +435,7 @@
       <workItem from="1509710479033" duration="1685000" />
       <workItem from="1509720722772" duration="342000" />
       <workItem from="1509804255608" duration="840000" />
-      <workItem from="1509849039205" duration="8203000" />
-    </task>
-    <task id="LOCAL-00179" summary="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace817631b62fcb393a6dfeacb0aa528620b.">
-      <created>1509455442921</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1509455442921</updated>
+      <workItem from="1509849039205" duration="8310000" />
     </task>
     <task id="LOCAL-00180" summary="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace817631b62fcb393a6dfeacb0aa528620b.">
       <created>1509455678003</created>
@@ -779,11 +773,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509889774864</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="Revert &quot;PHP简洁之道&quot;">
+      <created>1509889942919</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1509889942919</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80002000" />
+    <option name="totallyTimeSpent" value="80109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1268,10 +1269,11 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        <state relative-caret-position="161">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <element signature="n#style#0;n#a#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#804#811#0" expanded="true" />
+            <element signature="e#1449#1456#0" expanded="true" />
           </folding>
         </state>
       </provider>
