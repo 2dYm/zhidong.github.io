@@ -43,12 +43,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/Jekyll 教程 - v1.0.pdf" afterPath="" />
     </list>
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
-    <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="cpu">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dongzhidong.github.io.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md" afterPath="$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,12 +80,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-11-10-Linux下查看CPU个数.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-11-10-Linux下查看CPU个数.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="734">
-                <caret line="158" column="11" lean-forward="false" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="442">
+                <caret line="158" column="32" lean-forward="false" selection-start-line="158" selection-start-column="32" selection-end-line="158" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -184,7 +181,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -240,8 +237,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-Mysql随机添加百万数据.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md" />
       </list>
     </option>
   </component>
@@ -273,6 +270,21 @@
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -389,14 +401,7 @@
       <workItem from="1509720722772" duration="342000" />
       <workItem from="1509804255608" duration="840000" />
       <workItem from="1509849039205" duration="9674000" />
-      <workItem from="1509955037252" duration="11383000" />
-    </task>
-    <task id="LOCAL-00192" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509460348866</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1509460348866</updated>
+      <workItem from="1509955037252" duration="11431000" />
     </task>
     <task id="LOCAL-00193" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509460465035</created>
@@ -734,11 +739,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510285998818</updated>
     </task>
-    <option name="localTasksCounter" value="241" />
+    <task id="LOCAL-00241" summary="cpu">
+      <created>1510286366365</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1510286366365</updated>
+    </task>
+    <option name="localTasksCounter" value="242" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92856000" />
+    <option name="totallyTimeSpent" value="92904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1167,17 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="734">
-            <caret line="158" column="11" lean-forward="false" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -1191,6 +1192,17 @@
         <state relative-caret-position="69">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="442">
+            <caret line="158" column="32" lean-forward="false" selection-start-line="158" selection-start-column="32" selection-end-line="158" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
