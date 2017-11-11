@@ -45,7 +45,7 @@
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/index.html" afterPath="$PROJECT_DIR$/_layouts/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/singlepost.html" afterPath="$PROJECT_DIR$/_layouts/singlepost.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,19 +67,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-10-Linux下查看CPU个数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-Linux下查看CPU个数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-11-10-PHP的SPL-双向链表.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL-双向链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -93,11 +80,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
               <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singlepost.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -242,7 +239,6 @@
         <option value="$PROJECT_DIR$/../html/index.php" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-收藏.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-Mysql分表一致性哈希.md" />
-        <option value="$PROJECT_DIR$/_layouts/singlepost.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-Mysql日期时间类型.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -252,6 +248,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL---双向链表.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL-双向链表.md" />
         <option value="$PROJECT_DIR$/_layouts/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/singlepost.html" />
       </list>
     </option>
   </component>
@@ -293,6 +290,11 @@
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongzhidong.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="dongzhidong.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -429,14 +431,7 @@
       <workItem from="1509804255608" duration="840000" />
       <workItem from="1509849039205" duration="9674000" />
       <workItem from="1509955037252" duration="19686000" />
-      <workItem from="1510408641554" duration="933000" />
-    </task>
-    <task id="LOCAL-00199" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509461032448</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1509461032448</updated>
+      <workItem from="1510408641554" duration="951000" />
     </task>
     <task id="LOCAL-00200" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509461107716</created>
@@ -774,11 +769,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510409445685</updated>
     </task>
-    <option name="localTasksCounter" value="248" />
+    <task id="LOCAL-00248" summary="SplDoublyLinkedList">
+      <created>1510409693745</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1510409693745</updated>
+    </task>
+    <option name="localTasksCounter" value="249" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102092000" />
+    <option name="totallyTimeSpent" value="102110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1058,14 +1060,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/category_index.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1233,6 +1227,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/singlepost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding />
         </state>
       </provider>
