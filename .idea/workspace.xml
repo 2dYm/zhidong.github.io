@@ -84,8 +84,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL-双向链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-3588">
-                <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <first_editor relative-caret-position="230">
+                <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -421,14 +421,7 @@
       <workItem from="1509804255608" duration="840000" />
       <workItem from="1509849039205" duration="9674000" />
       <workItem from="1509955037252" duration="19686000" />
-      <workItem from="1510408641554" duration="625000" />
-    </task>
-    <task id="LOCAL-00197" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509460835965</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1509460835965</updated>
+      <workItem from="1510408641554" duration="686000" />
     </task>
     <task id="LOCAL-00198" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509460937079</created>
@@ -766,11 +759,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510406594769</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="SplDoublyLinkedList">
+      <created>1510409387292</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1510409387293</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101784000" />
+    <option name="totallyTimeSpent" value="101845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1214,8 +1214,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL-双向链表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-3588">
-            <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
