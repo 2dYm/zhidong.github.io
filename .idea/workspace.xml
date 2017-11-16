@@ -75,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <caret line="18" column="77" lean-forward="false" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -386,14 +386,7 @@
       <workItem from="1510565696556" duration="1353000" />
       <workItem from="1510745165104" duration="625000" />
       <workItem from="1510748666678" duration="282000" />
-      <workItem from="1510830801684" duration="2371000" />
-    </task>
-    <task id="LOCAL-00208" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509462471574</created>
-      <option name="number" value="00208" />
-      <option name="presentableId" value="LOCAL-00208" />
-      <option name="project" value="LOCAL" />
-      <updated>1509462471574</updated>
+      <workItem from="1510830801684" duration="2471000" />
     </task>
     <task id="LOCAL-00209" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509462557227</created>
@@ -731,11 +724,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510838582504</updated>
     </task>
-    <option name="localTasksCounter" value="257" />
+    <task id="LOCAL-00257" summary="favicon.ico">
+      <created>1510838716633</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1510838716633</updated>
+    </task>
+    <option name="localTasksCounter" value="258" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107347000" />
+    <option name="totallyTimeSpent" value="107447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1165,7 +1165,7 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <caret line="18" column="77" lean-forward="false" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
           <folding />
         </state>
       </provider>
