@@ -23,7 +23,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/clients.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/person.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/user.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/img/user2.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/Linux/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/PHP/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories/其他/index.html" afterPath="" />
@@ -44,11 +43,6 @@
     </list>
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-10-Ubuntu17.10安装Apache+php+mysql.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-13-Apache文件目录详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-27-php.md" afterPath="$PROJECT_DIR$/_posts/2017-10-27-PHP.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-28-php.md" afterPath="$PROJECT_DIR$/_posts/2017-10-28-PHP.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_site/assets/img/user2.png" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -408,14 +402,7 @@
       <workItem from="1510565696556" duration="1353000" />
       <workItem from="1510745165104" duration="625000" />
       <workItem from="1510748666678" duration="282000" />
-      <workItem from="1510830801684" duration="1092000" />
-    </task>
-    <task id="LOCAL-00201" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509461131176</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1509461131176</updated>
+      <workItem from="1510830801684" duration="1098000" />
     </task>
     <task id="LOCAL-00202" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509461327046</created>
@@ -753,11 +740,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510409710655</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="SplDoublyLinkedList">
+      <created>1510837435862</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1510837435863</updated>
+    </task>
+    <option name="localTasksCounter" value="251" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106068000" />
+    <option name="totallyTimeSpent" value="106074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
