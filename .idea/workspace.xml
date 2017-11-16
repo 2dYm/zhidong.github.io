@@ -74,8 +74,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="620">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -392,14 +392,7 @@
       <workItem from="1510565696556" duration="1353000" />
       <workItem from="1510745165104" duration="625000" />
       <workItem from="1510748666678" duration="282000" />
-      <workItem from="1510830801684" duration="4119000" />
-    </task>
-    <task id="LOCAL-00213" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509710566374</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1509710566374</updated>
+      <workItem from="1510830801684" duration="4200000" />
     </task>
     <task id="LOCAL-00214" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509712571182</created>
@@ -737,11 +730,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510838913956</updated>
     </task>
-    <option name="localTasksCounter" value="262" />
+    <task id="LOCAL-00262" summary="pagenation">
+      <created>1510840486322</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1510840486322</updated>
+    </task>
+    <option name="localTasksCounter" value="263" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109095000" />
+    <option name="totallyTimeSpent" value="109176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -811,7 +811,8 @@
     <MESSAGE value="SplDoublyLinkedList" />
     <MESSAGE value="favicon.ico" />
     <MESSAGE value="post.date" />
-    <option name="LAST_COMMIT_MESSAGE" value="post.date" />
+    <MESSAGE value="pagenation" />
+    <option name="LAST_COMMIT_MESSAGE" value="pagenation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1171,8 +1172,8 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="620">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
