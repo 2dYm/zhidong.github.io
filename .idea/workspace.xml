@@ -435,14 +435,7 @@
       <workItem from="1510748666678" duration="282000" />
       <workItem from="1510830801684" duration="5218000" />
       <workItem from="1511093383632" duration="776000" />
-      <workItem from="1511244810234" duration="14078000" />
-    </task>
-    <task id="LOCAL-00233" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1510057069429</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1510057069429</updated>
+      <workItem from="1511244810234" duration="14126000" />
     </task>
     <task id="LOCAL-00234" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1510057168977</created>
@@ -780,11 +773,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511266711165</updated>
     </task>
-    <option name="localTasksCounter" value="282" />
+    <task id="LOCAL-00282" summary="PHP">
+      <created>1511266796644</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1511266796644</updated>
+    </task>
+    <option name="localTasksCounter" value="283" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125048000" />
+    <option name="totallyTimeSpent" value="125096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
