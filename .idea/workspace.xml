@@ -41,8 +41,9 @@
     </list>
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/HTTPS问题2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/HTTPS问题.png" afterPath="$PROJECT_DIR$/uploads/HTTPS问题.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/HTTPS问题2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/HTTPS通信1.png" afterPath="$PROJECT_DIR$/uploads/HTTPS通信1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/HTTPS通信2.png" afterPath="$PROJECT_DIR$/uploads/HTTPS通信2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,19 +66,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-19-HTTPS详解.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-HTTPS详解.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="514">
-                <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="user2.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uploads/user2.png">
           <provider selected="true" editor-type-id="images">
@@ -85,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SPL双向链表.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SPL双向链表.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uploads/SPL双向链表.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -99,22 +87,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTTPS问题2.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/uploads/HTTPS问题2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HTTPS通信流程.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信流程.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HTTPS通信2.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTTPS的安全通道机制.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS的安全通道机制.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -127,15 +108,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="图解HTTPS之使用HTTPS通信.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/图解HTTPS之使用HTTPS通信.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="图解HTTPS之SSL.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/图解HTTPS之SSL.png">
+      <file leaf-file-name="HTTPS通信流程.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信流程.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -394,14 +368,7 @@
       <workItem from="1510748666678" duration="282000" />
       <workItem from="1510830801684" duration="5218000" />
       <workItem from="1511093383632" duration="776000" />
-      <workItem from="1511244810234" duration="11554000" />
-    </task>
-    <task id="LOCAL-00225" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509889508484</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1509889508484</updated>
+      <workItem from="1511244810234" duration="11685000" />
     </task>
     <task id="LOCAL-00226" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509889738096</created>
@@ -739,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511261700904</updated>
     </task>
-    <option name="localTasksCounter" value="274" />
+    <task id="LOCAL-00274" summary="Https">
+      <created>1511261815355</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1511261815355</updated>
+    </task>
+    <option name="localTasksCounter" value="275" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122524000" />
+    <option name="totallyTimeSpent" value="122655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -822,14 +796,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../html/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/showCategory.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/category_index.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -1103,27 +1069,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/HTTPS的安全通道机制.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uploads/2017-11-21 17-48-24屏幕截图.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/HTTPS证书.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1159,12 +1105,42 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/SPL双向链表.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS的安全通道机制.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS证书.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信12.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uploads/HTTPS问题2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/SPL双向链表.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
