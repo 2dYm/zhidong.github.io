@@ -68,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-Https详解.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="598">
-                <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+              <first_editor relative-caret-position="656">
+                <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -384,14 +384,7 @@
       <workItem from="1510748666678" duration="282000" />
       <workItem from="1510830801684" duration="5218000" />
       <workItem from="1511093383632" duration="776000" />
-      <workItem from="1511244810234" duration="9387000" />
-    </task>
-    <task id="LOCAL-00218" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509887677265</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1509887677265</updated>
+      <workItem from="1511244810234" duration="9457000" />
     </task>
     <task id="LOCAL-00219" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509887909037</created>
@@ -729,11 +722,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511256577920</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="Https">
+      <created>1511256758653</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1511256758653</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120357000" />
+    <option name="totallyTimeSpent" value="120427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -1139,8 +1139,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-Https详解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="598">
-            <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <first_editor relative-caret-position="656">
+            <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
