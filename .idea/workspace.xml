@@ -41,7 +41,12 @@
     </list>
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-11-19-Https详解.md" afterPath="$PROJECT_DIR$/_posts/2017-11-19-HTTPS详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/Https.png" afterPath="$PROJECT_DIR$/uploads/HTTPS.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/Https证书.png" afterPath="$PROJECT_DIR$/uploads/HTTPS证书.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/Https通信1.png" afterPath="$PROJECT_DIR$/uploads/HTTPS通信1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/Https通信2.png" afterPath="$PROJECT_DIR$/uploads/HTTPS通信2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/Https通信流程.png" afterPath="$PROJECT_DIR$/uploads/HTTPS通信流程.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/Https问题.png" afterPath="$PROJECT_DIR$/uploads/HTTPS问题.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-HTTPS详解.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="158">
-                <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <first_editor relative-caret-position="460">
+                <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -84,43 +89,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Https通信流程.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/Https通信流程.png">
+      <file leaf-file-name="HTTPS通信流程.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信流程.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Https通信1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/Https通信1.png">
+      <file leaf-file-name="HTTPS通信1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Https问题.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/Https问题.png">
+      <file leaf-file-name="HTTPS问题.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS问题.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Https通信2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/Https通信2.png">
+      <file leaf-file-name="HTTPS通信2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信2.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Https证书.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/Https证书.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/user2.png">
+      <file leaf-file-name="HTTPS证书.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/HTTPS证书.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -159,6 +157,7 @@
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>HTTPS</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -391,14 +390,7 @@
       <workItem from="1510748666678" duration="282000" />
       <workItem from="1510830801684" duration="5218000" />
       <workItem from="1511093383632" duration="776000" />
-      <workItem from="1511244810234" duration="10486000" />
-    </task>
-    <task id="LOCAL-00221" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1509888783368</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1509888783368</updated>
+      <workItem from="1511244810234" duration="10659000" />
     </task>
     <task id="LOCAL-00222" summary="Revert &quot;PHP简洁之道&quot;">
       <created>1509888830448</created>
@@ -736,11 +728,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511256946364</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="Https">
+      <created>1511258263639</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1511258263639</updated>
+    </task>
+    <option name="localTasksCounter" value="271" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121456000" />
+    <option name="totallyTimeSpent" value="121629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1867" height="1084" extended-state="6" />
@@ -819,7 +818,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/index.html" />
     <entry file="file://$PROJECT_DIR$/../html/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -1101,7 +1099,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/Https.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1121,12 +1119,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/Https通信流程.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信流程.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/Https问题.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS问题.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1136,17 +1134,22 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/Https证书.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS证书.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/Https通信2.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/Https通信1.png">
+    <entry file="file://$PROJECT_DIR$/uploads/HTTPS通信1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/2017-11-21 17-48-24屏幕截图.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1154,8 +1157,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-HTTPS详解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="158">
-            <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <first_editor relative-caret-position="460">
+            <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
