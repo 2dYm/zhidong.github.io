@@ -94,8 +94,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="465">
-                <caret line="228" column="3" lean-forward="true" selection-start-line="228" selection-start-column="3" selection-end-line="228" selection-end-column="3" />
+              <first_editor relative-caret-position="345">
+                <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -384,14 +384,7 @@
       <workItem from="1511412724827" duration="38000" />
       <workItem from="1511595115407" duration="1352000" />
       <workItem from="1512025796006" duration="5616000" />
-      <workItem from="1512112925023" duration="1288000" />
-    </task>
-    <task id="LOCAL-00239" summary="cpu">
-      <created>1510285974551</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1510285974551</updated>
+      <workItem from="1512112925023" duration="1323000" />
     </task>
     <task id="LOCAL-00240" summary="cpu">
       <created>1510285998818</created>
@@ -729,11 +722,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512195296520</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="SPL file">
+      <created>1512195509246</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1512195509246</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137367000" />
+    <option name="totallyTimeSpent" value="137402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="50" width="1869" height="1092" extended-state="6" />
@@ -1136,8 +1136,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="465">
-            <caret line="228" column="3" lean-forward="true" selection-start-line="228" selection-start-column="3" selection-end-line="228" selection-end-column="3" />
+          <first_editor relative-caret-position="345">
+            <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
