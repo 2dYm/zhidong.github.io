@@ -40,9 +40,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/Jekyll 教程 - v1.0.pdf" afterPath="" />
     </list>
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
-    <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="SPL file">
+    <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md" afterPath="$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,8 +93,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="425">
-                <caret line="586" column="15" lean-forward="true" selection-start-line="586" selection-start-column="15" selection-end-line="586" selection-end-column="15" />
+              <first_editor relative-caret-position="678">
+                <caret line="597" column="0" lean-forward="true" selection-start-line="597" selection-start-column="0" selection-end-line="597" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -392,14 +391,7 @@
       <workItem from="1511595115407" duration="1352000" />
       <workItem from="1512025796006" duration="5616000" />
       <workItem from="1512112925023" duration="1940000" />
-      <workItem from="1512196180476" duration="6444000" />
-    </task>
-    <task id="LOCAL-00243" summary="SPL">
-      <created>1510399327267</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1510399327267</updated>
+      <workItem from="1512196180476" duration="6452000" />
     </task>
     <task id="LOCAL-00244" summary="SplDoublyLinkedList">
       <created>1510406520959</created>
@@ -737,11 +729,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512196371960</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="SPL file">
+      <created>1512202956314</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1512202956314</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144463000" />
+    <option name="totallyTimeSpent" value="144471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="50" width="1869" height="1092" extended-state="6" />
@@ -1139,8 +1138,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="425">
-            <caret line="586" column="15" lean-forward="true" selection-start-line="586" selection-start-column="15" selection-end-line="586" selection-end-column="15" />
+          <first_editor relative-caret-position="678">
+            <caret line="597" column="0" lean-forward="true" selection-start-line="597" selection-start-column="0" selection-end-line="597" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
