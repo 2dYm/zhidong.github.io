@@ -42,7 +42,6 @@
     <list id="f38c149a-a80b-492a-8e73-266c66df34a8" name="Revert &quot;PHP简洁之道&quot; This reverts commit 8e17ace" comment="Revert &quot;PHP简洁之道&quot;&#10;&#10;This reverts commit 8e17ace" />
     <list default="true" id="e70cc129-16f9-4db4-ae5b-817a8dc763a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL-双向链表.md" afterPath="$PROJECT_DIR$/_posts/2017-11-10-PHP的SPL-双向链表.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md" afterPath="$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +94,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="322">
-                <caret line="101" column="31" lean-forward="false" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+              <first_editor relative-caret-position="465">
+                <caret line="228" column="3" lean-forward="true" selection-start-line="228" selection-start-column="3" selection-end-line="228" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -107,9 +106,21 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../html/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="23">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SPL_c1.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL_c1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="550" column="0" lean-forward="false" selection-start-line="550" selection-start-column="0" selection-end-line="550" selection-end-column="0" />
+              <folding>
+                <element signature="n#SplFileInfo#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -373,14 +384,7 @@
       <workItem from="1511412724827" duration="38000" />
       <workItem from="1511595115407" duration="1352000" />
       <workItem from="1512025796006" duration="5616000" />
-      <workItem from="1512112925023" duration="1076000" />
-    </task>
-    <task id="LOCAL-00238" summary="Revert &quot;PHP简洁之道&quot;">
-      <created>1510285389078</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1510285389079</updated>
+      <workItem from="1512112925023" duration="1288000" />
     </task>
     <task id="LOCAL-00239" summary="cpu">
       <created>1510285974551</created>
@@ -718,11 +722,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512026422280</updated>
     </task>
-    <option name="localTasksCounter" value="287" />
+    <task id="LOCAL-00287" summary="SPL file">
+      <created>1512195296520</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1512195296520</updated>
+    </task>
+    <option name="localTasksCounter" value="288" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137155000" />
+    <option name="totallyTimeSpent" value="137367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="50" width="1869" height="1092" extended-state="6" />
@@ -1082,13 +1093,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL_c1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="272" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-25-Mysql创建用户及授权与收回.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1113,17 +1117,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../html/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="23">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL_c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="550" column="0" lean-forward="false" selection-start-line="550" selection-start-column="0" selection-end-line="550" selection-end-column="0" />
+          <folding>
+            <element signature="n#SplFileInfo#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-30-PHP的SPL-文件处理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="322">
-            <caret line="101" column="31" lean-forward="false" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+          <first_editor relative-caret-position="465">
+            <caret line="228" column="3" lean-forward="true" selection-start-line="228" selection-start-column="3" selection-end-line="228" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
