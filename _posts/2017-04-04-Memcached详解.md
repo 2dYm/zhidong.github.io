@@ -11,25 +11,20 @@ comments: true
 <br>
 
 #### 1. 基本介绍 
-<br>
-
 1.1 参数说明
 <img src="http://p07ywvfks.bkt.clouddn.com/Mem-h-e.png" class="img-responsive img-rounded" />
-
 ```
-    -p   设置TCP端口号(默认设置为: 11211)
-    -d   以daemon方式运行
-    -u   指定运行Memcache的用户
-    -l   监听的服务器IP地址，默认应该是本机
-    -c   设置并发数
-    -m   允许最大内存用量，单位M (默认: 64 MB)
-    -v   输出警告和错误信息
-    -vv  打印客户端的请求和返回信息
-    -h   打印帮助信息
-    -i   打印Memcached和libevent的版权信息
+-p   设置TCP端口号(默认设置为: 11211)
+-d   以daemon方式运行
+-u   指定运行Memcache的用户
+-l   监听的服务器IP地址，默认应该是本机
+-c   设置并发数
+-m   允许最大内存用量，单位M (默认: 64 MB)
+-v   输出警告和错误信息
+-vv  打印客户端的请求和返回信息
+-h   打印帮助信息
+-i   打印Memcached和libevent的版权信息
 ```
-<br>
-
 1.2 启动与停止
 ```
 Memcached的启动:
@@ -38,8 +33,6 @@ Memcached的关闭:
 ps -ef|grep memcached
 sudo kill -9 pid(进程号)
 ```
-<br>
-
 1.3 连接与退出
 ```
 telnet 127.0.0.1 11211
@@ -48,8 +41,7 @@ quit
 <br>
 
 #### 2. Memcached 命令执行最简单的操作
-
-* 参数说明
+2.1参数说明
 ```
 command <key> <flags> <expiration time> <bytes>
 <value>
@@ -81,9 +73,8 @@ memcached存储的数据形式只能是字符串.
 标志flag的范围
 0-2^16-1
 ```
-<br>
 
-* 五种基本 memcached 命令
+2.2 五种基本 memcached 命令
 ```
 增: add
 注: 仅当缓存中不存在键时，add 命令才会向缓存中添加一个键值对。如果缓存中已经存在键，则之前的值将仍然保持相同，并且您将获得响应 NOT_STORED
