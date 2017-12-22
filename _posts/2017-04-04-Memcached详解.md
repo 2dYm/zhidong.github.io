@@ -3,7 +3,7 @@ layout: singlepost
 url: 2017-04-04-Memcached详解.md
 title: Memcached详解
 category: Other
-description:  Memcached
+description:  Memcached内存数据库(一个高性能,分布式内存对象缓存系统)
 comments: true
 ---
 
