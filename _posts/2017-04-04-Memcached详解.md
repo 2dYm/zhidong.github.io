@@ -11,25 +11,26 @@ comments: true
 <br>
 
 #### 1. 基本介绍 
+<br>
 
-* 参数说明
+1.1 参数说明
 <img src="http://p07ywvfks.bkt.clouddn.com/Mem-h-e.png" class="img-responsive img-rounded" />
 
 ```
--p   设置TCP端口号(默认设置为: 11211)
--d   以daemon方式运行
--u   指定运行Memcache的用户
--l   监听的服务器IP地址，默认应该是本机
--c   设置并发数
--m   允许最大内存用量，单位M (默认: 64 MB)
--v   输出警告和错误信息
--vv  打印客户端的请求和返回信息
--h   打印帮助信息
--i   打印Memcached和libevent的版权信息
+    -p   设置TCP端口号(默认设置为: 11211)
+    -d   以daemon方式运行
+    -u   指定运行Memcache的用户
+    -l   监听的服务器IP地址，默认应该是本机
+    -c   设置并发数
+    -m   允许最大内存用量，单位M (默认: 64 MB)
+    -v   输出警告和错误信息
+    -vv  打印客户端的请求和返回信息
+    -h   打印帮助信息
+    -i   打印Memcached和libevent的版权信息
 ```
 <br>
 
-* 启动与停止
+1.2 启动与停止
 ```
 Memcached的启动:
 Memcached -d -p 11211 -u nobody -c 1024 -m 64 
@@ -39,7 +40,7 @@ sudo kill -9 pid(进程号)
 ```
 <br>
 
-* 连接与退出
+1.3 连接与退出
 ```
 telnet 127.0.0.1 11211
 quit
