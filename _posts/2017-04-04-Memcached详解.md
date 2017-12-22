@@ -7,8 +7,7 @@ description:  Memcached
 comments: true
 ---
 
-### Memcached内存数据库
-Memcached是一个高性能,分布式内存对象缓存系统.
+### Memcached内存数据库(一个高性能,分布式内存对象缓存系统)
 <br>
 
 #### 1. 基本介绍 
