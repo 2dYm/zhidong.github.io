@@ -45,6 +45,7 @@ quit
 ```
 command <key> <flags> <expiration time> <bytes>
 <value>
+
 command              set/add/replace
 key                  key 用于查找缓存值
 flags                可以包括键值对的整型参数，客户机使用它存储关于键值对的额外信息
@@ -121,6 +122,7 @@ set userId 0 0 6
 <br>
 
 #### 3. 其他命令
+
 ```
 全删: flush_all [time]
 time参数是指是所有缓存失效,并在time秒内限制使用删除的key
@@ -151,14 +153,14 @@ Memcached利用Slab Allocation机制来分配和管理内存
 <br>
 
 #### 5. Memcached数据过期方式
-* Lazy Expiration
+5.1 Lazy Expiration
 ```
 memcached内部不会监视记录是否过期，而是在get时查看记录的时间戳，检查记录是否过
 期。这种技术被称为lazy（惰性）expiration。
 因此，memcached不会在过期监视上耗费CPU时间。
 ```
 
-* LRU(Least Recently Used 最近最少使用)
+5.2 LRU(Least Recently Used 最近最少使用)
 ```
 1.Memcached会优先使用已超时的记录的空间
 2.如果Memcached的内存空间不足时，就使用LRU模型从最近未被使用的记录中搜索，并将其空
