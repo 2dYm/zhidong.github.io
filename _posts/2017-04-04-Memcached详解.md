@@ -25,14 +25,17 @@ comments: true
 -h   打印帮助信息
 -i   打印Memcached和libevent的版权信息
 ```
+
 1.2 启动与停止
 ```
 Memcached的启动:
 Memcached -d -p 11211 -u nobody -c 1024 -m 64 
+
 Memcached的关闭:
 ps -ef|grep memcached
 sudo kill -9 pid(进程号)
 ```
+
 1.3 连接与退出
 ```
 telnet 127.0.0.1 11211
@@ -41,6 +44,7 @@ quit
 <br>
 
 #### 2. Memcached 命令执行最简单的操作
+
 2.1参数说明
 ```
 command <key> <flags> <expiration time> <bytes>
@@ -147,9 +151,12 @@ get_hits  关键字获取命中的次数
 <br>
 
 #### 4. Memcached内存管理机制
-Memcached利用Slab Allocation机制来分配和管理内存
 <img src="http://p07ywvfks.bkt.clouddn.com/Mem-slab.png" class="img-responsive img-rounded" />
+
+```
+Memcached利用Slab Allocation机制来分配和管理内存
 它按照预先分配的大小，将分配的内存分割成特定长度的内存块，再把尺寸相同的内存块分成组，这些内存块不会释放，可以重复利用。
+```
 <br>
 
 #### 5. Memcached数据过期方式
