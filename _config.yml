@@ -1,4 +1,4 @@
-baseurl: /dongzhidong.github.io
+baseurl: /zhidong.github.io
 permalink: /:categories/:year/:month/:day/:title
 markdown: redcarpet
 redcarpet:
